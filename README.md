@@ -1,2 +1,2 @@
 # TravelProject-JS
-<a href="http://travelproject.infinityfreeapp.com"</a>
+<a href="http://travelproject.infinityfreeapp.com">Go LIVE</a>
